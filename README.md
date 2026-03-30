@@ -1,4 +1,3 @@
-<h1 align="center">👋 你好，我是 dingtaiqi</h1>
 <h3 align="center">一个苦逼</h3>
 
 <p align="center">
