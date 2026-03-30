@@ -1,16 +1,62 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a4d2e,100:2e7d32&height=200&section=header&text=Hello%20there!&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
+</p>
 
-<!--
-**Dingtaiqi/dingtaiqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there 👋</h1>
+<h3 align="center">一个苦逼的开发人员</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dingtaiqi&color=brightgreen&style=flat-square" alt="访客计数器" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🛠️ 技术栈与工具
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub 统计数据
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dingtaiqi&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dingtaiqi&layout=compact&theme=merko&hide_border=true&bg_color=0d1117" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dingtaiqi&theme=merko&hide_border=true&background=0d1117" />
+</div>
+
+---
+
+### 🏆 GitHub 成就奖杯
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dingtaiqi&theme=gruvbox&no-frame=true&row=2&column=3" />
+</div>
+
+---
+
+### 🐍 我的贡献被吃掉了
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/你的用户名/你的用户名/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/你的用户名/你的用户名/output/github-contribution-grid-snake.svg" />
+  <img alt="贪吃蛇动画" src="https://raw.githubusercontent.com/你的用户名/你的用户名/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a4d2e,100:2e7d32&height=100&section=footer"/>
+</p>
