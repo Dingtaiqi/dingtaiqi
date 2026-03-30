@@ -50,9 +50,9 @@
 ### 🐍 我的贡献被吃掉了
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/你的用户名/你的用户名/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/你的用户名/你的用户名/output/github-contribution-grid-snake.svg" />
-  <img alt="贪吃蛇动画" src="https://raw.githubusercontent.com/你的用户名/你的用户名/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dingtaiqi/dingtaiqi/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dingtaiqi/dingtaiqi/output/github-contribution-grid-snake.svg" />
+  <img alt="贪吃蛇动画" src="https://raw.githubusercontent.com/dingtaiqi/dingtaiqi/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ---
