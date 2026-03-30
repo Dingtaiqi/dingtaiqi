@@ -2,27 +2,27 @@ name: generate snake animation
 
 on:
   schedule:
-    - cron: "0 */24 * * *"  # 每天自动运行一次
-  workflow_dispatch:        # 允许你手动触发
+    - cron: "0 */24 * * *"   # 每天运行一次
+  workflow_dispatch:          # 允许手动触发
   push:
     branches:
-      - main                # 注意：如果你的默认分支是master，请改为master
+      - main                  # 如果你的默认分支是 master，请改为 master
 
 jobs:
   generate:
-    permissions:
-      contents: write       # 写入权限，用于提交生成的文件
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    permissions:
+      contents: write         # 写入权限，用于提交生成的文件
     steps:
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-        outputs: |
-          dist/github-contribution-grid-snake.svg
-          dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - name: push to the output branch
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: push the generated files to the 'output' branch
         uses: crazy-max/ghaction-github-pages@v4.1.0
         with:
           target_branch: output
