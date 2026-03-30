@@ -26,26 +26,10 @@
 
 ### 📊 GitHub 统计数据
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dingtaiqi&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dingtaiqi&layout=compact&theme=merko&hide_border=true&bg_color=0d1117" />
-</div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dingtaiqi&theme=2077)
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dingtaiqi&theme=merko&hide_border=true&background=0d1117" />
-</div>
-
----
-
-### 🏆 GitHub 成就奖杯
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dingtaiqi&theme=gruvbox&no-frame=true&row=2&column=3" />
-</div>
-
----
 
 ### 🐍 我的贡献被吃掉了
 
