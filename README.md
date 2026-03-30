@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a4d2e,100:2e7d32&height=200&section=header&text=Hello%20there!&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
-</p>
-
 <h3 align="center">一个苦逼</h3>
 
 <p align="center">
