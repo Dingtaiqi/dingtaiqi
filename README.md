@@ -4,6 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=dingtaiqi&color=brightgreen&style=flat-square" alt="访客计数器" />
 </p>
 
+已入驻爱发电
 <p align="center">
   <a href="https://www.ifdian.net/a/yinshibai" target="_blank">
     <img src="https://img.shields.io/badge/支持我-爱发电-46b16a?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="爱发电赞助" />
